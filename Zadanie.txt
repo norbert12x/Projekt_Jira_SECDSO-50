@@ -1,0 +1,2 @@
+Przykładowy commit w ramach zadania
+Dodaje dodatkową linie
